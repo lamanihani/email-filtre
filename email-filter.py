@@ -240,7 +240,7 @@ for lylia in passwords :
                     file.write((lylia)+"")
                     file.close() 
           
-# lylia : i love this girl <3 but she dont love me :(
+
 print("\033[92mDone\033[97m , nice\033[91m phishing\033[97m !")
 # you can add new email type 
 # yourname = ('your.email.type+\n')
